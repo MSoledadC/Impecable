@@ -3,18 +3,16 @@
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 650px auto;
-    background-attachment: fixed;
-
     min-height: 100vh;
-
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 .hero-content{
     text-align: center;
-    margin-top: 220px;
+    margin-top: 240px;
 }
 
 .hero-content .subheading{
