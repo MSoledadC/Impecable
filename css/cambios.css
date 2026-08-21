@@ -1,4 +1,4 @@
-.hero-impecable{
+.hero-impecable {
     background-image: url('../images/Logo/ChatGPT Impecable solo.png');
     background-repeat: no-repeat;
     background-position: center center;
@@ -10,27 +10,34 @@
     overflow: hidden;
 }
 
-.hero-content{
+.hero-content {
     text-align: center;
     margin-top: 240px;
 }
 
-.hero-content .subheading{
+.hero-content .subheading {
     color: #444;
     margin-bottom: 15px;
     font-size: 16px;
 }
 
-.hero-texto{
+.hero-texto {
     font-size: 16px;
     color: #666;
 }
 
-.navbar-brand img{
-    height: 90px; /* ajustá el tamaño */
+.navbar-brand img {
+    height: 90px;
+    /* ajustá el tamaño */
     width: auto;
 }
+
 .ftco-navbar-light {
     background: rgba(0, 0, 0, 0.6) !important;
 }
 
+.email-link {
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+}
